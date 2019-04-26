@@ -1,13 +1,13 @@
 # GPT2-Text-reviews
 
-This repo contains experiments for generating hotel reviews using GPT-2 model trained on Google Colab using hotel reviews dataset from Kaggle.
+ GPT-2 model trained on Google Colab using hotel reviews dataset from Kaggle.
 
 * GPT-2 training - https://github.com/nshepperd/gpt-2
 * Google Colab - https://colab.research.google.com/notebooks/welcome.ipynb
 * Dataset - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
 ## Results
-After training model on reviews dataset for 6 hours on single GPU I obtained some interesting results.
+After training model on reviews dataset for 6 hours on single GPU the results are 
 
 ```
 >>> generate_unconditional_samples.py --top_k=40 --length=40
