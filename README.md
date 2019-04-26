@@ -7,7 +7,7 @@ This repo contains experiments for generating hotel reviews using GPT-2 model tr
 * Dataset - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
 ## Results
-After training model on reviews dataset for 5 hours on single GPU I obtained some interesting results.
+After training model on reviews dataset for 6 hours on single GPU I obtained some interesting results.
 
 ```
 >>> generate_unconditional_samples.py --top_k=40 --length=40
