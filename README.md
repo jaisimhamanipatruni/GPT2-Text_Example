@@ -1,4 +1,4 @@
-# gpt2-hotel-reviews
+# GPT2-Text-reviews
 
 This repo contains experiments for generating hotel reviews using GPT-2 model trained on Google Colab using hotel reviews dataset from Kaggle.
 
